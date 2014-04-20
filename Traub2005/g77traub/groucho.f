@@ -9,7 +9,7 @@ c nucleus reticularis thalami (nRT).
 
 ! max number of cells of any one type should be 1000; otherwise problems with broadcasting
 ! axonal potentials (see position code below
-        PARAMETER (num_suppyrRS_p = 1000, num_suppyrFRB_p =  50,
+       PARAMETER (num_suppyrRS_p = 1000, num_suppyrFRB_p =  50,
      & num_supbask_p = 90, num_supaxax_p = 90, num_supLTS_p = 90,
      & num_spinstell_p = 240, num_tuftIB_p = 800, num_tuftRS_p = 200,
      & num_nontuftRS_p = 500, num_deepbask_p = 100, 
